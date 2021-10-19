@@ -4,7 +4,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class Demo {
-	//test
+	
 	public static void main(String[] args) {
 		try {
 		//set property contains two argumant 'key','property'
